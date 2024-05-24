@@ -1,10 +1,10 @@
 ## Description
 
-PLOOGLE is a simple search service wich use Google API for get 10 first result of search on Google. If results contain the wiki website - this service parse it and get text and image from article.
+PLOOGLE is a simple search service that uses Google API to get the first 10 results of a Google search. If the results contain the wiki website - this service parses it and gets text and image from article.
 
 ### WHY PLOOGLE?
 
-Becouse this service has dellay for emulate long response from Google API =)
+Because this service has a delay for emulating long responses from Google API =)
 
 ## Installation
 
